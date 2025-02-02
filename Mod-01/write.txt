@@ -1,2 +1,11 @@
-Nice to meet you! 
-, how are you today ?
+To log the exception details (message and request path), 
+you can use NestJS's built-in Logger or a third-party 
+logging library like winston or pino. Here's an improved
+ version of your filter with logging added:
+
+Updated Code with Logging:To log the exception details (message and request path), 
+you can use NestJS's built-in Logger or a third-party 
+logging library like winston or pino. Here's an improved
+ version of your filter with logging added:
+
+Updated Code with Logging:
